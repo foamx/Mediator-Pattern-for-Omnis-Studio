@@ -1,7 +1,7 @@
 {
 	"classtype": "kTask",
 	"omnisversion": "10.0.0.3",
-	"internalversion": 64,
+	"internalversion": 65,
 	"tvardefs": [
 
 	],
@@ -48,7 +48,7 @@
 		"editordata": "",
 		"external": false,
 		"issupercomponent": false,
-		"moddate": "2019-05-30 16:24:42",
+		"moddate": "2019-05-30 16:31:34",
 		"showascheckedout": false,
 		"userinfo": "",
 		"version": ""

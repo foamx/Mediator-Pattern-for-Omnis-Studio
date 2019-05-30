@@ -1,10 +1,9 @@
 Do $cinst.user1.$assign($clib.$objects.User.$new("Lawrence","Smith","919-777-2244"))
 Do $cinst.user2.$assign($clib.$objects.User.$new("Roseann","Smith","919-555-1212"))
 Do $cinst.user3.$assign($clib.$objects.User.$new("Aidan","Smith","919-888-9876"))
-Do $cinst.controller.$assign($clib.$objects.ControllerBase.$new())
+
 Do factory.$assign($clib.$objects.Factory.$newref())
 
 Do factory.$getUserWindow(user1)
 Do factory.$getUserWindow(user1)
 Do factory.$getUserWindow(user1)
-#test comment
