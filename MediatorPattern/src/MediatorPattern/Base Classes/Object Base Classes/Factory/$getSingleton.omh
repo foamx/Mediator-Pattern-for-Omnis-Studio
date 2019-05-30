@@ -1,0 +1,8 @@
+If $clib.$objects.[pObjectName].$insts.$count()=0
+	Do $clib.$objects.[pObjectName].$newref() Returns singletonObjectReference
+Else
+	Calculate rows as $clib.$objects.[pObjectName].$listrefs()
+	Calculate singletonObjectReference as rows.C1
+End If
+
+Quit method pick(singletonObjectReference.$validref(),#NULL,singletonObjectReference)

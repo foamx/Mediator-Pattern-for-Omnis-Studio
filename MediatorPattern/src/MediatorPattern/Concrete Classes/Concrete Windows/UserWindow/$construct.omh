@@ -1,0 +1,4 @@
+Do inherited
+Do user.$assign(puser)
+Do colleague.$assign(pColleague)
+Do colleague.$setWindow(self)

@@ -1,0 +1,29 @@
+{
+	"classtype": "kObjectclass",
+	"omnisversion": "10.0.0.3",
+	"internalversion": 1,
+	"superclass": "MediatorBase",
+	"designtaskname": "Startup_Task",
+	"cvardefs": [
+
+	],
+	"ivardefs": [
+
+	],
+	"properties": {
+		"collectperformancedata": false,
+		"componenticon": 0,
+		"componenttype": "kCompStoreHidden",
+		"createdate": "2019-05-28 10:39:10",
+		"desc": "",
+		"editor": "",
+		"editordata": "",
+		"external": false,
+		"issupercomponent": false,
+		"moddate": "2019-05-28 10:39:10",
+		"selfcontained": false,
+		"showascheckedout": false,
+		"userinfo": "",
+		"version": ""
+	}
+}

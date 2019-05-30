@@ -1,0 +1,3 @@
+If self.$validref()
+	Do self.$deleteref()
+End If

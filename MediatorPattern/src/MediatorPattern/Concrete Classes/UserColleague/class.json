@@ -1,0 +1,32 @@
+{
+	"classtype": "kObjectclass",
+	"omnisversion": "10.0.0.3",
+	"internalversion": 10,
+	"superclass": "ColleagueBase",
+	"designtaskname": "Startup_Task",
+	"cvardefs": [
+
+	],
+	"ivardefs": [
+
+	],
+	"properties": {
+		"collectperformancedata": false,
+		"componenttype": "kCompStoreHidden",
+		"createdate": "2019-05-28 16:13:33",
+		"desc": "",
+		"editor": "",
+		"editordata": "",
+		"external": false,
+		"issupercomponent": false,
+		"moddate": "2019-05-29 17:22:18",
+		"selfcontained": false,
+		"showascheckedout": false,
+		"userinfo": "",
+		"version": ""
+	},
+	"inheritedproperties": [
+		"designtaskname",
+		"componenticon"
+	]
+}
