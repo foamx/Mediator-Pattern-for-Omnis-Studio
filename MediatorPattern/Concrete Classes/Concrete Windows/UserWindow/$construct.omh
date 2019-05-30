@@ -1,0 +1,4 @@
+Set reference self to $cinst().$ref
+Do user.$assign(puser)
+Do colleague.$assign(pColleague)
+Do colleague.$setWindow(self)

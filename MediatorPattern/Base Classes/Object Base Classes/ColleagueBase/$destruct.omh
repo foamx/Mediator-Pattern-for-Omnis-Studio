@@ -1,0 +1,2 @@
+Do mediator.$deleteColleague(self)
+Do self.$deleteref()

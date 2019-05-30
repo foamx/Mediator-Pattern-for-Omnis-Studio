@@ -1,0 +1,2 @@
+Do method getUserColleague Returns colleague
+Do $clib.$windows.UserWindow.$open('*',kWindowStack,user,colleague)

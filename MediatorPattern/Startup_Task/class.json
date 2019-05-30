@@ -1,0 +1,49 @@
+{
+	"classtype": "kTask",
+	"omnisversion": "10.0.0.3",
+	"internalversion": 59,
+	"tvardefs": [
+
+	],
+	"cvardefs": [
+
+	],
+	"ivardefs": [
+		{
+			"name": "user1",
+			"order": 1,
+			"type": "kObject",
+			"subtype": "",
+			"sublen": 0
+		},
+		{
+			"name": "user2",
+			"order": 5,
+			"type": "kObject",
+			"subtype": "",
+			"sublen": 0
+		},
+		{
+			"name": "user3",
+			"order": 2,
+			"type": "kObject",
+			"subtype": "",
+			"sublen": 0
+		}
+	],
+	"properties": {
+		"collectperformancedata": false,
+		"componenticon": 0,
+		"componenttype": "kCompStoreHidden",
+		"createdate": "2019-05-10 07:26:23",
+		"desc": "",
+		"editor": "",
+		"editordata": "",
+		"external": false,
+		"issupercomponent": false,
+		"moddate": "2019-05-30 00:22:08",
+		"showascheckedout": false,
+		"userinfo": "",
+		"version": ""
+	}
+}
