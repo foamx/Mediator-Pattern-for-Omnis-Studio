@@ -1,0 +1,9 @@
+Switch pMessage
+	Case "update"
+		Do window.user.$assign(pPayload)
+		Do window.$redraw()
+	Case "lock"
+		Do window.$objs.$sendall($ref.$enabled.$assign(kFalse))
+	Case "unlock"
+		Do window.$objs.$sendall($ref.$enabled.$assign(kTrue))
+End Switch

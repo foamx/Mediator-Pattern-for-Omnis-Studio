@@ -1,7 +1,7 @@
 {
 	"classtype": "kObjectclass",
 	"omnisversion": "10.0.0.3",
-	"internalversion": 32,
+	"internalversion": 51,
 	"superclass": "ObjectBaseReferenceType",
 	"designtaskname": "Startup_Task",
 	"cvardefs": [
@@ -9,16 +9,16 @@
 	],
 	"ivardefs": [
 		{
-			"name": "colleague",
-			"order": 2,
+			"name": "mediator",
+			"order": 1,
 			"type": "kObjectref",
 			"subtype": "",
 			"sublen": 0
 		},
 		{
-			"name": "colleagues",
-			"order": 1,
-			"type": "kList",
+			"name": "window",
+			"order": 2,
+			"type": "kItemref",
 			"subtype": "",
 			"sublen": 0
 		}
@@ -27,13 +27,13 @@
 		"collectperformancedata": false,
 		"componenticon": 0,
 		"componenttype": "kCompStoreHidden",
-		"createdate": "2019-05-24 13:09:19",
+		"createdate": "2019-05-24 13:26:59",
 		"desc": "",
 		"editor": "",
 		"editordata": "",
 		"external": true,
 		"issupercomponent": false,
-		"moddate": "2019-06-03 09:16:22",
+		"moddate": "2019-06-03 08:51:39",
 		"selfcontained": false,
 		"showascheckedout": false,
 		"userinfo": "",

@@ -1,0 +1,2 @@
+Do colleagues.$search(colleague=pColleague,kTrue,,kTrue,kTrue)
+Do colleagues.$remove(kListDeleteSelected)

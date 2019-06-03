@@ -1,0 +1,5 @@
+For colleagues.$line from 1 to colleagues.$linecount step 1
+	If colleagues.colleague<>pOriginator
+		Do colleagues.colleague.$receive(pMessage,pPayload)
+	End If
+End For
