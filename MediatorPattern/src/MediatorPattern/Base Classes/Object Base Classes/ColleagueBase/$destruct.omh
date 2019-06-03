@@ -1,2 +1,5 @@
-Do mediator.$deleteColleague(self)
+If mediator.$validref()
+	Do mediator.$deleteColleague(self)
+End If
+
 Do self.$deleteref()
